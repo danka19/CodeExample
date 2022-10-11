@@ -1,0 +1,1 @@
+PlayRoomForSmall: deposit=100.0, money=0.0 ,description Просторная безопасная комната
